@@ -13,6 +13,7 @@ n/a
 ## Usage 
 
 The following links to the deployed application:
+![screenshot of web page )](https://user-images.githubusercontent.com/118351853/205641866-43984c6c-306f-443a-ae11-39b072fba326.png)
 
 https://clairegreenwood83.github.io/bootcamp.coderefactor.accessibility/
 
