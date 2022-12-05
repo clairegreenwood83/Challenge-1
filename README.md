@@ -14,8 +14,7 @@ I was asked to optimise and refactor the code in this project in order to improv
 
 ### Links
 
-[Link to deployed website] (https://clairegreenwood83.github.io/bootcamp.coderefactor.accessibility/)
-
+[Link to deployed website](https://clairegreenwood83.github.io/bootcamp.coderefactor.accessibility/)
 
 ## Installation
 
