@@ -16,6 +16,7 @@ I was asked to optimise and refactor the code in this project in order to improv
 
 [Link to deployed website](https://clairegreenwood83.github.io/bootcamp.coderefactor.accessibility/)
 
+
 ## Installation
 
 Upload the index.html and assets folder (containging CSS and images).
