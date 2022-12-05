@@ -21,7 +21,6 @@ I was asked to optimise and refactor the code in this project in order to improv
 
 Upload the index.html and assets folder (containging CSS and images).
 
-n/a
 
 ## Usage 
 
