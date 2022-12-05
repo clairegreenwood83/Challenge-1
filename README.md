@@ -32,5 +32,3 @@ Once deployed the application can be viewed in a web browser, a screenshot of ho
 ## Credits
 
 Collabortors on this project included instructional staff, teaching assisstants and students on the University of Birmingham skills bootcamp in front-end web development. 
-
-## License 
